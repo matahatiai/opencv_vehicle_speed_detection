@@ -1,7 +1,7 @@
 # Vehicle Speed Detection
 ### RESULT
 
-<img src="">
+<img src="https://raw.githubusercontent.com/matahatiai/opencv_vehicle_speed_detection/master/example.png" width="600">
 
 Technologies used :
 - Python
